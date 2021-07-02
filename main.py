@@ -1,6 +1,6 @@
 name = input("Whats your name?")
 print ("Hello, " + name + ". I am the comparisoner.")
-print ("Give me inputs of two number. Not decimal. Only integer. Then i will compare it.")
+print ("Give me inputs of two number. Then i will compare it.")
 print("Do you want to find out the comparison of two decimal numbers or integers?")
 x = input("decimal or integer:")
 if x == "decimal":
